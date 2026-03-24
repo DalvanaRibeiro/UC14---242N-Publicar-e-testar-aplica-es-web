@@ -1,4 +1,4 @@
-#  Atividade: Desenvolvimento de Aplicação Web com Múltiplas Telas
+#  Atividade: Deploy de Aplicação Web com Múltiplas Telas no GitPages
 
 ## Objetivo
 Desenvolver uma aplicação web simples utilizando **HTML, CSS e JavaScript**, com navegação entre telas e publicação online.
