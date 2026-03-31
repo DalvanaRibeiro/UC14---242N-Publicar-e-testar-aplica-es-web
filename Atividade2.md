@@ -12,7 +12,7 @@ A aplicação deve apresentar uma interface organizada, com os componentes bem e
 
 ---
 
-## ⚙️ Requisitos
+##  Requisitos
 
 - Utilizar **componentização** (cada elemento deve ser um componente separado)
 - Organizar o projeto em pastas (ex: `components`, `assets`)
